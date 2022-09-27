@@ -71,3 +71,4 @@ function hesapla(sayi1, sayi2, islem) {
       return (sayi1 * sayi2) / 100;
   }
 }
+
